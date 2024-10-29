@@ -1,0 +1,6 @@
+.square{
+    height: 30px;
+    width: 30px;
+    box-shadow: 1px 1px black;
+    display: flex;
+}
